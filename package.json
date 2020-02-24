@@ -1,0 +1,24 @@
+{
+  "name": "luva-react-components",
+  "version": "1.0.0",
+  "description": "luva's react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hulva/luva-react-components.git"
+  },
+  "keywords": [
+    "luva",
+    "react",
+    "components"
+  ],
+  "author": "Luva Hulva.H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hulva/luva-react-components/issues"
+  },
+  "homepage": "https://github.com/Hulva/luva-react-components#readme"
+}
